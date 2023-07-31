@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artechz
 - 👀 I’m interested in CS and tech in general. I like Web Development.
-- 🌱 I’m currently working with Java, Flutter and Assembly.
+- 🌱 I’m currently working with PHP, Java and Flutter.
 - 💞️ I’m looking to collaborate on general purpose application software.
 - 📫 How to reach me: arnau.sanz@gmail.com.
 
