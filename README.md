@@ -4,7 +4,7 @@
 - 💞 I’m looking to collaborate on general purpose application software, backend programming and web development.
 - 📫 How to reach me: [a@rnau.me](mailto:a@rnau.me)
 
-![Artechz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaunau&count_private=true&theme=dark)
+<!-- ![Artechz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaunau&count_private=true&theme=dark) --->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaunau&layout=compact&theme=dark)
 <!---
