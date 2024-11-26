@@ -1,6 +1,6 @@
 - Hi, I’m @ArnauNau 👋
-- I’m interested in CS and tech in general. I like Systems Programming and Web Development. 👀
-- I’m currently working with PHP, C, Java and Flutter.
+- I’m interested in CS, Engineering and tech in general. I like Systems Programming and Web Development. 👀
+- I’m currently working with C, Java and Flutter.
 - I’m looking to collaborate on general purpose application software, backend programming, distributed systems and embedded software.
 - How to reach me: [a@rnau.me](mailto:a@rnau.me) 📫
 
