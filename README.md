@@ -1,7 +1,6 @@
 - Hi, I’m @ArnauNau 👋
-- Interested in CS, Engineering and tech in general. I like Systems Programming and Web Development. 👀
 - Currently working with C, TypeScript, and Zig.
-- Looking to collaborate on game dev (including game engine), backend programming, distributed systems and general purpose software.
+- Looking to collaborate on backend programming, desktop applications (including game and engine dev), distributed systems and general purpose software.
 - How to reach me: [a@rnau.me](mailto:a@rnau.me) 📫
 
 <!-- ![Artechz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaunau&count_private=true&theme=dark) --->
