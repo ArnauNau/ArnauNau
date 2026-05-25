@@ -1,6 +1,7 @@
 - Hi, I’m @ArnauNau 👋
-- Currently working with C, TypeScript, and Zig.
-- Looking to collaborate on backend programming, desktop applications (including game and engine dev), distributed systems and general purpose software.
+- Currently using C, TypeScript, and Zig.
+- Working on systems, desktop applications, game engine development, and the seasonal side project.
+- Open to collaborations.
 - How to reach me: [a@rnau.me](mailto:a@rnau.me) 📫
 
 <!-- ![Artechz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaunau&count_private=true&theme=dark) --->
